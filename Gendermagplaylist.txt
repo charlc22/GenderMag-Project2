@@ -1,0 +1,166 @@
+#	Title 						Artist							   Album						Time   	   Song ID#
+1	PRIDE.	,					Kendrick Lamar,					   DAMN.	,			 		4:35,	   68886240
+	
+	 
+1	PRIDE.															   DAMN.				 		4:35		
+	Kendrick Lamar	
+	
+2	Father Stretch My Hands Pt. 1  		Kanye West,							   The Life Of Pablo			2:15	   7961705
+	Kanye West
+	
+2	Father Stretch My Hands Pt. 1  									   The Life Of Pablo			2:15
+	Kanye West														 															 
+	
+3	After The Storm (feat. Tyler, The Creator & Bootsy Collins)	,	Kali Uchis Tyler The Creator Bootsy Collins  , Isolation	,				3:27  ,     4465321
+	Kali Uchis, Tyler, The Creator, Bootsy Collins
+	
+3	After The Storm (feat. Tyler, The Creator & Bootsy Collins)		   Isolation					3:27
+	Kali Uchis, Tyler, The Creator, Bootsy Collins	
+	
+4	Chanel															   Chanel						3:30       7385246
+	Frank Ocean
+	
+4	Chanel															   Chanel						3:30
+	Frank Ocean
+	
+	
+5   Long Time - Intro												   Die Lit						3:31       6033923
+	Playboi Carti
+	
+5   Long Time - Intro												   Die Lit						3:31
+	Playboi Carti
+		
+	
+6   Skeezers														   Hoodie SZN 					3:18 	   5427298
+	A Boogie Wit da Hoodie
+	
+6   Skeezers														   Hoodie SZN 					3:18
+	A Boogie Wit da Hoodie
+
+7	Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)   Floor Seats 					3:42	    3527221
+	A$AP Ferg, Brent Faiyaz, Salaam Remi	
+	
+7	Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)   Floor Seats 					3:42
+	A$AP Ferg, Brent Faiyaz, Salaam Remi
+	
+	
+8   Right My Wrongs 												   TRAPSOUL						4:09    	5284336
+    Bryson Tiller
+    
+8   Right My Wrongs 												   TRAPSOUL						4:09
+    Bryson Tiller
+
+
+9   Life Goes On													   Harder Than Ever				4:07    	2235181
+	Lil Baby, Gunna, Lil Uzi Vert
+	
+9   Life Goes On													   Harder Than Ever				4:07   
+	Lil Baby, Gunna, Lil Uzi Vert
+
+10  Stargirl Interlude												   Starboy						1:51    	2934757
+    The Weeknd, Lana Del Rey
+    
+10  Stargirl Interlude												   Starboy						1:51
+    The Weeknd, Lana Del Rey
+
+
+
+11  Kiss It Better  												   ANTI (Deluxe)		        4:13	6037241
+	Rihanna
+
+
+11  Kiss It Better  												   ANTI (Deluxe)		        4:13   
+	Rihanna
+
+
+12  Jet Fuel														   Swimming						5:45   7370216 
+    Mac Miller
+    
+12  Jet Fuel														   Swimming						5:45
+    Mac Miller
+
+
+13  Still Think About You											   Artist						4:06	5159943
+    A Boogie Wit da Hoodie
+    
+13  Still Think About You											   Artist						4:06   
+    A Boogie Wit da Hoodie
+
+
+14  Pink + White 													   Blonde						3:04   1252058
+	Frank Ocean
+
+14  Pink + White 													   Blonde						3:04
+	Frank Ocean
+
+15  way back														   Birds In The Trap Sing McKnight	4:32  5806699
+    Travis Scott
+
+15  way back														   Birds In The Trap Sing McKnight	4:32
+    Travis Scott
+
+16  Feeling															   Death Race For Love			3:21   1048738
+    Juice WRLD
+
+
+16  Feeling															   Death Race For Love			3:21
+    Juice WRLD
+
+17  Violent Crimes  												   ye							3:35   1085905 
+    Kanye West
+    
+17  Violent Crimes  												   ye							3:35
+    Kanye West
+
+18  Practice 														   	Take Care                   3:57	4459791												 
+    Drake
+
+18  Practice 														   	Take Care                   3:57													 
+    Drake
+
+19  Shoota (feat. Lil Uzi Vert) 										Die Lit						2:33 	9172300
+    Playboi Carti, Lil Uzi Vert
+
+19  Shoota (feat. Lil Uzi Vert) 										Die Lit						2:33 
+    Playboi Carti, Lil Uzi Vert
+
+
+20  Reminder															Starboy						3:38	6647479
+    The Weeknd
+    
+20  Reminder															Starboy						3:38
+    The Weeknd
+
+
+21   Wesley's Theory													To Pimp a Butterfly			4:47	9805061
+     Kendrick Lamar, George Clinton, Thundercat
+
+
+21   Wesley's Theory													To Pimp a Butterfly			4:47
+     Kendrick Lamar, George Clinton, Thundercat
+
+
+22   Drowning (feat. Kodak Black)										The Bigger Artist            3:29	1092263
+     A Boogie Wit da Hoodie, Kodak Black
+     
+22   Drowning (feat. Kodak Black)										The Bigger Artist            3:29
+     A Boogie Wit da Hoodie, Kodak Black
+
+23   Only If 															Apollo XXI					1:40	1581883
+     Steve Lacy
+
+23   Only If 															Apollo XXI					1:40	
+     Steve Lacy
+
+24 Nights																Blonde						5:07	3592700
+   Frank Ocean
+
+24 Nights																Blonde						5:07
+   Frank Ocean
+
+25 LOYALTY. FEAT. RIHANNA. 												DAMN.						3:47	4867535
+   Kendrick Lamar, Rihanna
+
+25 LOYALTY. FEAT. RIHANNA. 												DAMN.						3:47
+   Kendrick Lamar, Rihanna
+
